@@ -1,4 +1,4 @@
 # Ejemp-2
 
-Estamos probando este ejemplo, para la actividad de sandraaaaa
+Estamos probando este ejemplo, para la actividad de sandra
 
